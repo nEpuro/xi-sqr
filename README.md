@@ -1,6 +1,6 @@
 Инструкция:
 
-1)Прописать "git clone https://github.com/nEpuro/xi-sqr" (если нет git - скачать его)
+1)Прописать "git clone https://github.com/nEpuro/xi-sqr" (если нет git - скачать его) \n
 2)Когда скачали - в терминале "pip install -r requirements.txt" (если нет pip - скачать)
 3)Можно открывать проект
 4)Картинки хранятся в папке images - добавялем свои, обзываем их original_640x480_1 .... и так далее
