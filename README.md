@@ -14,4 +14,6 @@
 
 7)Как программа закончит работать - все изображения со вставленным текстом  и графики хранятся в папке "images"
 
+Авторы: n3puro и krekirs
+
 ![monKEYz](https://github.com/user-attachments/assets/13ebe2f7-5070-4cec-81e2-f9c967e3e1c5)
